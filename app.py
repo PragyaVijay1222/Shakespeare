@@ -8,8 +8,9 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 
 # Initializing Flask app
+from flask_cors import CORS
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "*"}})
 
 # Loading the text corpus
 filepath = tf.keras.utils.get_file('shakespeare.txt', 'https://storage.googleapis.com/download.tensorflow.org/data/shakespeare.txt')

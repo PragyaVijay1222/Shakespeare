@@ -83,9 +83,9 @@ Text is displayed on the frontend.
 
 
 ## 🎉 Live URLs
-Frontend: [https://yourusername.github.io/shakespeare-frontend/](https://pragyavijay1222.github.io/Shakespeare/)
+Frontend: [frontend-link](https://pragyavijay1222.github.io/Shakespeare/)
 
-Backend: [(https://shakespeare-lkrt.onrender.com)](https://shakespeare-lkrt.onrender.com)
+Backend: [backend-link](https://shakespeare-lkrt.onrender.com)
 
 ## 📌 License
 This project is open-source and available under the MIT License.

@@ -5,7 +5,7 @@ function generateText() {
     console.log("Button clicked!");
     console.log("Sending request with length:", length, "and temperature:", temperature);
 
-    fetch("https://6b83-34-75-206-44.ngrok-free.app/generate", {
+    fetch("https://shakespeare-lkrt.onrender.com/generate", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"

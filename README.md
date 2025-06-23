@@ -4,12 +4,6 @@ This is a simple web application that generates Shakespeare-style text based on 
 
 ---
 
-## 📸 Demo
-
-🖥️ Live Site: [Click here to try it out!](https://pragyavijay1222.github.io/Shakespeare/)
-
----
-
 ## 📚 Project Overview
 
 - 🔥 Users can input:
@@ -80,12 +74,6 @@ JavaScript sends a POST request to the backend API.
 Backend returns generated text.
 
 Text is displayed on the frontend.
-
-
-## 🎉 Live URLs
-Frontend: [frontend-link](https://pragyavijay1222.github.io/Shakespeare/)
-
-Backend: [backend-link](https://shakespeare-lkrt.onrender.com)
 
 ## 📌 License
 This project is open-source and available under the MIT License.

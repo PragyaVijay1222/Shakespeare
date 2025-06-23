@@ -28,7 +28,7 @@ This is a simple web application that generates Shakespeare-style text based on 
 ---
 
 ## 📦 Folder Structure
-
+```
 shakespeare-gen/
 ├── app.py
 ├── train_model.py
@@ -39,7 +39,7 @@ shakespeare-gen/
     └── script.js
     └── style.css
     └── assets
-
+```
 ---
 
 ## 🌐 API Endpoint
